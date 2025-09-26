@@ -1,0 +1,2 @@
+# Using-Machine-Learning-Models-to-predict-Students-Performance-in-Exams
+This study applied five ML models to classify students’ performance using demographics and exam scores. After EDA, preprocessing, SMOTE, outlier removal, and encoding, SVC achieved 99% accuracy, while KNN, NB, and LR performed well; AdaBoost was weakest. Findings show ML’s potential to identify at-risk students and guide interventions.
